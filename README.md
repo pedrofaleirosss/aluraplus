@@ -25,7 +25,7 @@ Este projeto foi construído com as seguintes tecnologias:
 
 ## 📷 Demonstração
 
-<div align="center">
+<div>
   <img src="https://github.com/user-attachments/assets/a5c63856-2bef-4d57-9471-be4b3fa1c5cf" width="700px" />
   <img src="https://github.com/user-attachments/assets/08ebb41a-aaf5-48a4-b6e5-9f628ab1e33d" width="700px" />
   <img src="https://github.com/user-attachments/assets/bd690c88-66ba-429f-8dda-8d0be9e4bf8c" width="700px" />
